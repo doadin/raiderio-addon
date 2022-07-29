@@ -2,7 +2,7 @@
 -- Copyright (c) 2022 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="kr",date="2022-07-28T07:27:52Z",numCharacters=15842,db={}}
+local provider={name=...,data=3,region="kr",date="2022-07-29T07:29:57Z",numCharacters=16089,db={}}
 local F
 
 F = function() provider.db["아즈샤라"]={0,"곰범조목"} end F()
