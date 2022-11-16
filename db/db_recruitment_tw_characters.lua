@@ -2,12 +2,12 @@
 -- Copyright (c) 2022 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2022-11-15T07:14:22Z",numCharacters=15207,db={}}
+local provider={name=...,data=3,region="tw",date="2022-11-16T07:14:25Z",numCharacters=15388,db={}}
 local F
 
-F = function() provider.db["暗影之月"]={0,"Acinduction","Laxus","Virgil","冬瓜茶","娜雅妮","小喵德","小青貚","御煌","緋鳳輓歌","馬來糕"} end F()
-F = function() provider.db["語風"]={20,"Gnomeblood","Gnomebrew","Lonelys","李知恩親手","那芙"} end F()
-F = function() provider.db["眾星之子"]={30,"Gnomefaker","緋雪夜嵐","雪夜鶯歌"} end F()
+F = function() provider.db["暗影之月"]={0,"Acinduction","Virgil","冬瓜茶","娜雅妮","小喵德","御煌","馬來糕"} end F()
+F = function() provider.db["語風"]={14,"Gnomeblood","Gnomebrew","李知恩親手","那芙"} end F()
+F = function() provider.db["眾星之子"]={22,"Gnomefaker"} end F()
 
 F = nil
 RaiderIO.AddProvider(provider)
