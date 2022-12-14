@@ -2,7 +2,7 @@
 -- Copyright (c) 2022 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=1,region="tw",date="2022-12-14T05:24:40Z",currentSeasonId=0,numCharacters=114701,db={}}
+local provider={name=...,data=1,region="tw",date="2022-12-14T06:23:24Z",currentSeasonId=0,numCharacters=130358,db={}}
 local F
 
 F = function() provider.db["眾星之子"]={0,"正義","緋雪夜嵐","雪夜鶯歌"} end F()
