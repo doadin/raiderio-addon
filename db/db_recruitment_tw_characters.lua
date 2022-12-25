@@ -2,7 +2,7 @@
 -- Copyright (c) 2022 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2022-12-24T07:03:43Z",numCharacters=21980,db={}}
+local provider={name=...,data=3,region="tw",date="2022-12-25T07:04:11Z",numCharacters=21753,db={}}
 local F
 
 F = function() provider.db["日落沼澤"]={0,"一條龍服務","冰火雙重天","心有靈犀","我爱看烟花","灵犀","無尾熊之星","練個喚能師","肉嘟嘟胖呼呼","阿戦","阿莱克斯莉萨","非正义的圣光"} end F()
