@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-01-10T07:46:08Z",numCharacters=29799,db={}}
+local provider={name=...,data=3,region="tw",date="2023-01-11T07:43:04Z",numCharacters=30146,db={}}
 local F
 
 F = function() provider.db["暗影之月"]={0,"Arddream","Killua","一颗豆芽呀","三杯老鼠肉","凝音","水月龙芯","流砂","滿玥丶","炫幻","牛爱草","諾米化身為龍","賓尼兎","赫爾墨斯丶墮","邪刃肥貓","野馬丶"} end F()
@@ -13,6 +13,7 @@ F = function() provider.db["阿薩斯"]={48,"四葉未來","沒有你的未來"}
 F = function() provider.db["眾星之子"]={52,"舞天曦"} end F()
 F = function() provider.db["日落沼澤"]={54,"一條龍服務","冰火雙重天","心有靈犀","我爱看烟花","灵犀","無尾熊之星","肉嘟嘟胖呼呼","蛇蛇王","阿戦","阿莱克斯莉萨","非正义的圣光"} end F()
 F = function() provider.db["憤怒使者"]={76,"扛麥郎習近平","鹹魚餅"} end F()
+F = function() provider.db["水晶之刺"]={80,"超人好識飛"} end F()
 
 F = nil
 RaiderIO.AddProvider(provider)
