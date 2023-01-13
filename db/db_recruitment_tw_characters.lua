@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-01-12T07:49:21Z",numCharacters=30391,db={}}
+local provider={name=...,data=3,region="tw",date="2023-01-13T07:57:43Z",numCharacters=30893,db={}}
 local F
 
 F = function() provider.db["暗影之月"]={0,"Arddream","Killua","一颗豆芽呀","三杯老鼠肉","凝音","水月龙芯","流砂","滿玥丶","炫幻","牛爱草","諾米化身為龍","賓尼兎","赫爾墨斯丶墮","邪刃肥貓","野馬丶"} end F()
