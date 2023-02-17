@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-02-16T07:58:02Z",numCharacters=38363,db={}}
+local provider={name=...,data=3,region="tw",date="2023-02-17T07:51:00Z",numCharacters=38363,db={}}
 local F
 
 F = function() provider.db["世界之樹"]={0,"Richmal","一塵世繁華","冬季限定丶","刃舞丨迦楼罗","斗魚丶葉若晴","断桥殇","灬老头乐灬","熊宝","珠帘卷","秋意浓","秋风引","蘇荏苒","阿伍","鹿角神"} end F()
@@ -14,9 +14,10 @@ F = function() provider.db["憤怒使者"]={98,"扛麥郎習特勒","維尼熊�
 F = function() provider.db["日落沼澤"]={102,"Killergirlzz","Killerkingz","Silvio"} end F()
 F = function() provider.db["寒冰皇冠"]={108,"飛鳥魚魚"} end F()
 F = function() provider.db["聖光之願"]={110,"柚蜜"} end F()
-F = function() provider.db["亞雷戈斯"]={112,"冷劍冰心"} end F()
-F = function() provider.db["語風"]={114,"老實人"} end F()
-F = function() provider.db["尖石"]={116,"Badblocks"} end F()
+F = function() provider.db["水晶之刺"]={112,"鬼扯"} end F()
+F = function() provider.db["亞雷戈斯"]={114,"冷劍冰心"} end F()
+F = function() provider.db["語風"]={116,"老實人"} end F()
+F = function() provider.db["尖石"]={118,"Badblocks"} end F()
 
 F = nil
 RaiderIO.AddProvider(provider)
