@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="kr",date="2023-02-18T07:50:25Z",numCharacters=38214,db={}}
+local provider={name=...,data=3,region="kr",date="2023-02-19T08:45:31Z",numCharacters=37910,db={}}
 local F
 
 F = function() provider.db["데스윙"]={0,"죽음의전사내"} end F()
