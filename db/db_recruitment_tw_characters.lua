@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-03-11T20:07:31Z",numCharacters=38305,db={}}
+local provider={name=...,data=3,region="tw",date="2023-03-12T09:14:00Z",numCharacters=38006,db={}}
 local F
 
 F = function() provider.db["世界之樹"]={0,"Marb","Minio","Ogre","Richmal","一塵世繁華","不会开嗜血","全球肉眼帝","冬季限定丶","刃舞丨迦楼罗","封城牛侠","斗魚丶葉若晴","灬老头乐灬","熊宝","聆听秋雨","萨摩耶","阿伍","风痕磨石"} end F()
@@ -12,10 +12,9 @@ F = function() provider.db["暗影之月"]={70,"Chocomilk","Faydruid","Faylock",
 F = function() provider.db["眾星之子"]={96,"Rdwarrior"} end F()
 F = function() provider.db["寒冰皇冠"]={98,"Ulmoo"} end F()
 F = function() provider.db["阿薩斯"]={100,"Monkbe","丹妮莉絲秦","北品川"} end F()
-F = function() provider.db["血之谷"]={106,"八卦封印"} end F()
-F = function() provider.db["日落沼澤"]={108,"胖胖鹹叔公"} end F()
-F = function() provider.db["水晶之刺"]={110,"Eskimo","鬼扯"} end F()
-F = function() provider.db["地獄吼"]={114,"Dxz"} end F()
+F = function() provider.db["日落沼澤"]={106,"胖胖鹹叔公"} end F()
+F = function() provider.db["水晶之刺"]={108,"Eskimo","鬼扯"} end F()
+F = function() provider.db["地獄吼"]={112,"Dxz"} end F()
 
 F = nil
 RaiderIO.AddProvider(provider)
