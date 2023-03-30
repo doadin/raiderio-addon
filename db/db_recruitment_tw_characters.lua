@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-03-29T08:33:03Z",numCharacters=33535,db={}}
+local provider={name=...,data=3,region="tw",date="2023-03-30T08:27:43Z",numCharacters=33329,db={}}
 local F
 
 F = function() provider.db["日落沼澤"]={0,"一條龍服務","冰火雙重天","我爱看烟花","灵犀","無尾熊之星","肉嘟嘟胖呼呼","花殤紫幽幽","阿戦","阿莱克斯莉萨","非正义的圣光"} end F()
@@ -13,9 +13,9 @@ F = function() provider.db["暗影之月"]={82,"Bakemono","Maievg","芬达"} end
 F = function() provider.db["寒冰皇冠"]={88,"Ulmoo"} end F()
 F = function() provider.db["阿薩斯"]={90,"Monkbe"} end F()
 F = function() provider.db["水晶之刺"]={92,"潘鳳"} end F()
-F = function() provider.db["米奈希爾"]={94,"雪鹽焦糖貓"} end F()
-F = function() provider.db["地獄吼"]={96,"Dxz"} end F()
-F = function() provider.db["銀翼要塞"]={98,"Darkknight","Meigi"} end F()
+F = function() provider.db["地獄吼"]={94,"Dxz"} end F()
+F = function() provider.db["銀翼要塞"]={96,"Darkknight","Meigi"} end F()
+F = function() provider.db["米奈希爾"]={100,"雪鹽焦糖貓"} end F()
 
 F = nil
 RaiderIO.AddProvider(provider)
