@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-04-18T08:31:18Z",numCharacters=31308,db={}}
+local provider={name=...,data=3,region="tw",date="2023-04-19T08:52:35Z",numCharacters=31230,db={}}
 local F
 
 F = function() provider.db["亞雷戈斯"]={0,"穢邪路路","聖光路路"} end F()
