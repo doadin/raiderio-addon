@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-07-04T08:58:23Z",numCharacters=30563,db={}}
+local provider={name=...,data=3,region="tw",date="2023-07-05T08:53:53Z",numCharacters=30668,db={}}
 local F
 
 F = function() provider.db["阿薩斯"]={0,"惡魔腳毛","漆黑腳毛","蜜雪","黑龍腳毛"} end F()
@@ -11,6 +11,7 @@ F = function() provider.db["亞雷戈斯"]={14,"穢邪路路"} end F()
 F = function() provider.db["冰霜之刺"]={16,"七轟","千樹彥","毀滅的花兒"} end F()
 F = function() provider.db["暗影之月"]={22,"Nazhock","Worchief","巨獸斬","狼魅妹"} end F()
 F = function() provider.db["寒冰皇冠"]={30,"代購男子漢"} end F()
+F = function() provider.db["水晶之刺"]={32,"潘鳳"} end F()
 
 F = nil
 RaiderIO.AddProvider(provider)
