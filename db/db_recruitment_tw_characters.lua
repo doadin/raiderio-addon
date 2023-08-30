@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-08-29T08:13:40Z",numCharacters=26141,db={}}
+local provider={name=...,data=3,region="tw",date="2023-08-30T08:14:56Z",numCharacters=25984,db={}}
 local F
 
 F = function() provider.db["屠魔山谷"]={0,"伊力丹一怒風"} end F()
