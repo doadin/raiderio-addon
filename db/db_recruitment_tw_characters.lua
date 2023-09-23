@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-09-22T08:21:50Z",numCharacters=24494,db={}}
+local provider={name=...,data=3,region="tw",date="2023-09-23T08:21:22Z",numCharacters=24268,db={}}
 local F
 
 F = function() provider.db["暗影之月"]={0,"鴿雷蔡"} end F()
