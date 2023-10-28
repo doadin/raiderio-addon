@@ -2,7 +2,7 @@
 -- Copyright (c) 2023 by Ludicrous Speed, LLC
 -- All rights reserved.
 --
-local provider={name=...,data=3,region="tw",date="2023-10-27T08:30:34Z",numCharacters=25207,db={}}
+local provider={name=...,data=3,region="tw",date="2023-10-28T08:35:50Z",numCharacters=25294,db={}}
 local F
 
 F = function() provider.db["寒冰皇冠"]={0,"Ulmoo"} end F()
