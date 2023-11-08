@@ -197,7 +197,9 @@ do
     if IS_CLASSIC then
         ns.RAIDERIO_DOMAIN = "era.raider.io"
     elseif IS_WRATH then
-        ns.RAIDERIO_DOMAIN = "classic.raider.io"
+        -- need to update to classic when redirect is moved from era.raider.io to classic.raider.io
+        -- ns.RAIDERIO_DOMAIN = "classic.raider.io"
+        ns.RAIDERIO_DOMAIN = "wotlk.raider.io"
     end
 
     ns.EASTER_EGG = {
