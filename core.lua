@@ -7940,7 +7940,7 @@ if IS_RETAIL then
                 local comparisonDelta
                 if timing == "BOSS" then
                     delta = ConvertMillisecondsToSeconds(liveBoss.killed - liveBoss.killedStart)
-                    comparisonDelta = ConvertMillisecondsToSeconds(replayBoss and replayBoss.killed - replayBoss.killedStart or 0)
+                    comparisonDelta = ConvertMillisecondsToSeconds(replayBoss and replayBoss.killed and replayBoss.killed - replayBoss.killedStart or 0)
                 else
                     local prevLiveBoss, prevReplayBoss = self:GetBosses(self.index - 1)
                     delta = ConvertMillisecondsToSeconds(liveBoss.killed - (prevLiveBoss and prevLiveBoss.killed or 0))
